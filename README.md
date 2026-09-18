@@ -33,7 +33,7 @@ Follow this installation order:
 - **EditorWindowMaximizer**
 - **GG Camera Shake**
 - **NuGetForUnity**
-- **yFullscreen** (personal fork — *TODO*)
+- **yFullscreen** (personal fork)
 - **Simple Folder Icon**
 - **Eflatun.SceneRef**
 - **Modular-MVP**
@@ -84,7 +84,6 @@ Follow this installation order:
 
 - [ ] **EditorTools:** Update the Asset Store auto-install list in `EditorTools` only after migrating to Unity 7 (requires a new template project and fresh installations).
 - [ ] **Git Packages:**
-  - [ ] Fork `yFullscreen`, add the required prefab, and register it in the auto-install list.
   - [ ] Watch git-amend tutorials for the three Cysharp packages (`R3`, `UniTask`, `ZLinq`) to configure installation via NuGet.
   - [ ] Convert Audio into a Git package (refactor `AudioManager` into a ScriptableObject and transition pooled audio to an SO-based pattern).
 - [ ] **Unity Packages:**
