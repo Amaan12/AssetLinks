@@ -43,8 +43,7 @@ Follow this installation order:
   - `UniTask`
   - `ZLinq`
 - **Graphy**
-- **LUT Library** (*TODO*)
-- **Scalable Textures** (*TODO*)
+- **LUT Library** (used to be on asset store but not anymore)
 - **Audio System** (*TODO*)
 
 ---
@@ -67,13 +66,17 @@ Follow this installation order:
 - [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 ### 🎨 Rendering, Post-Processing & Textures
-- Grid (*TODO*)
-- Skybox (*TODO*)
+- [Scalable Prototype Textures](https://assetstore.unity.com/packages/2d/textures-materials/grid-prototype-materials-214264): Scalable so easily the best ones.
+- Skybox
+  - [AllSky Free - 10 Sky / Skybox Set](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
+  - [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
+  - [Stylized Skyboxes | FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/stylized-skyboxes-free-302248)
 
 ### 🖥️ UI
-- [EvoUI - Modern UI Framework](https://assetstore.unity.com/packages/tools/gui/evo-ui-modern-ui-framework-310303) 💰
-- Icon packs
-    - (*TODO*)
+- [Evo UI - Modern UI Framework](https://assetstore.unity.com/packages/tools/gui/evo-ui-modern-ui-framework-310303) 💰
+- [Flat pack - GUI by CorePro](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰 Paid, but was free on publisher sale.
+- [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
+- [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated. Exists in the template project if ever required.
 
 ### 🗑️ Deprecated / Removed
 - `EditorThemes` — Removed (unnecessary bloat; default theme preferred)
