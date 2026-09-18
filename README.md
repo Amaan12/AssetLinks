@@ -36,6 +36,7 @@ Follow this installation order:
 - **yFullscreen** (personal fork — *TODO*)
 - **Simple Folder Icon**
 - **Eflatun.SceneRef**
+- **KyleBanks/scene-ref-attribute**
 - **Modular-MVP**
 - **Cysharp Suite:**
   - `R3`
@@ -44,6 +45,7 @@ Follow this installation order:
 - **Graphy**
 - **LUT Library** (*TODO*)
 - **Scalable Textures** (*TODO*)
+- **Audio System** (*TODO*)
 
 ---
 
