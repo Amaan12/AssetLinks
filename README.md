@@ -19,7 +19,7 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 Follow this installation order:
 1. `EditorTools`
 2. `Utilities` (Install after installing DOTween; DOTween may be auto-installable via `EditorTools` if cached locally)
-3. Install NuGet, then install the NuGet packages:
+3. Install NuGet `https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity`, then install the NuGet packages:
    - `R3`
    - `UniTask`
    - `ZLinq`
