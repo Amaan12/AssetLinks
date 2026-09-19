@@ -80,7 +80,7 @@ Follow this installation order:
 
 ### 🗑️ Deprecated / Removed
 - `EditorThemes` — Removed (unnecessary bloat; default theme preferred)
-- `TimeScale Toolbar` — Removed (redundant; use QSFW instead)
+- `TimeScale Toolbar` — Removed (unnecessary bloat; use QSFW instead)
 - `BetterHierarchy` — Removed (no longer needed in Unity 7+)
 
 ---
