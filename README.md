@@ -17,34 +17,32 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 
 ### Manual Installation
 Follow this installation order:
-1. `EditorTools`
-2. `Utilities` (Install after installing DOTween; DOTween may be auto-installable via `EditorTools` if cached locally)
-3. Install NuGet `https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity`, then install the NuGet packages:
+1. `EditorTools` (https://github.com/Amaan12/EditorTools.git)
+2. `Utilities` (https://github.com/Amaan12/Utilities.git)
+3. `NuGet`
    - `R3`
    - `UniTask`
 4. `SuperUnityBuild` & `SuperUnityBuild Build Actions`
 
 ### Auto-Install
-*(Pre-configured in `EditorTools`)*
 
-- **Improved Timers** (personal fork)
-- **Unity Utilities Library**
-- **EditorWindowMaximizer**
-- **GG Camera Shake**
-- **NuGetForUnity**
-- **yFullscreen** (personal fork)
-- **Simple Folder Icon**
-- **Eflatun.SceneRef**
-- **KyleBanks/scene-ref-attribute**
-- **Modular-MVP**
-- **Cysharp Suite:**
-  - `R3`
-  - `UniTask`
-  - `ZLinq`
-- **Graphy**
-- **LUT Library** (used to be on asset store but not anymore)
-- **Audio System** (*TODO*)
-- **LitMotion**
+- **Improved Timers** (personal fork) (https://github.com/Amaan12/Unity-Improved-Timers.git)
+- **Unity Utilities Library** (https://github.com/adammyhre/Unity-Utils.git)
+- **EditorWindowMaximizer** (https://github.com/longbombus/FullScreenUnityEditor.git)
+- **GG Camera Shake** (https://github.com/gasgiant/Camera-Shake.git#upm)
+- **NuGetForUnity** (https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity)
+- **yFullscreen** (personal fork) (https://github.com/Amaan12/yFullScreen.git)
+- **Simple Folder Icon** (https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon)
+- **Eflatun.SceneRef** (git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm)
+- **KyleBanks/scene-ref-attribute** (git+https://github.com/KyleBanks/scene-ref-attribute.git)
+- **Modular-MVP** (https://github.com/Amaan12/Modular-MVP.git)
+- **Cysharp Suite:** (install this after the NuGet package is installed and compiled.)
+  - `R3` (https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity)
+  - `UniTask` (https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask)
+- **Graphy** (https://github.com/Tayx94/graphy.git)
+- **LUT Library** (used to be on asset store but not anymore) (https://github.com/Amaan12/Cinematic-Look-LUT-Library.git)
+- **Audio System** (https://github.com/Amaan12/Audio-System.git)
+- **LitMotion** (https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion)
 
 ---
 
