@@ -69,9 +69,9 @@ Follow this installation order:
 
 ### 🖥️ UI
 - [Evo UI - Modern UI Framework](https://assetstore.unity.com/packages/tools/gui/evo-ui-modern-ui-framework-310303) 💰
-- [Flat pack - GUI by CorePro](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰 Paid, but was free on publisher sale.
+- [Flat pack - GUI by CorePro](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰
 - [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
-- [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated. Exists in the template project if ever required.
+- [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated, still owned if required.
 
 ---
 
