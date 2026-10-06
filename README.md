@@ -75,11 +75,6 @@ Follow this installation order:
 - [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
 - [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated. Exists in the template project if ever required.
 
-### 🗑️ Deprecated / Removed
-- `EditorThemes` — Removed (unnecessary bloat; default theme preferred)
-- `TimeScale Toolbar` — Removed (unnecessary bloat; use QSFW instead)
-- `BetterHierarchy` — Removed (no longer needed in Unity 7+)
-
 ---
 
 ## 📋 TODO
@@ -88,6 +83,3 @@ Follow this installation order:
 - [ ] Update the cached Asset Store auto-install list in `EditorTools` only after migrating to Unity 7 (requires a new template project and fresh installations).
 ###### **Git Packages:**
 - [ ] Watch git-amend tutorials for the three Cysharp packages (`R3`, `UniTask`, `ZLinq`) to configure installation via NuGet.
-- [ ] Convert Audio into a Git package (refactor `AudioManager` into a ScriptableObject and transition pooled audio to an SO-based pattern).
-###### **Unity Packages:**
-- [ ] Convert personal assets into modular Unity packages and delete them from the sample project.
