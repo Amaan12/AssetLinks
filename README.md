@@ -25,7 +25,7 @@ Follow this installation order:
 4. `SuperUnityBuild` & `SuperUnityBuild Build Actions`
 
 ### Auto-Install
-*(Pre-configured in `EditorTools`; external links not required)*
+*(Pre-configured in `EditorTools`)*
 
 - **Improved Timers** (personal fork)
 - **Unity Utilities Library**
