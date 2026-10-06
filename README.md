@@ -22,7 +22,6 @@ Follow this installation order:
 3. Install NuGet `https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity`, then install the NuGet packages:
    - `R3`
    - `UniTask`
-   - `ZLinq`
 4. `SuperUnityBuild` & `SuperUnityBuild Build Actions`
 
 ### Auto-Install
@@ -45,6 +44,7 @@ Follow this installation order:
 - **Graphy**
 - **LUT Library** (used to be on asset store but not anymore)
 - **Audio System** (*TODO*)
+- **LitMotion**
 
 ---
 
@@ -61,9 +61,6 @@ Follow this installation order:
 
 ### ⚡ Optimizations
 - [Update Manager](https://assetstore.unity.com/packages/tools/utilities/update-manager-53581)
-
-### 🎬 Animation & Tweening
-- [DOTween (HOTween v2)](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 ### 🎨 Rendering, Post-Processing & Textures
 - [Scalable Prototype Textures](https://assetstore.unity.com/packages/2d/textures-materials/grid-prototype-materials-214264): Scalable so easily the best ones.
