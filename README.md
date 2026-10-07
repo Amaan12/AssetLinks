@@ -24,8 +24,8 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 - **Simple Folder Icon** (https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon)
 - **Eflatun.SceneRef** (git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm)
 - **KyleBanks/scene-ref-attribute** (git+https://github.com/KyleBanks/scene-ref-attribute.git)
-- **Cysharp Suite:** (install this after the NuGet package is installed and compiled.)
-  - `R3` (https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity)
+- **Cysharp Suite:**
+  - `R3` (https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity) (_install this after the NuGet package is installed and compiled._)
   - `UniTask` (https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask)
 - **Graphy** (https://github.com/Tayx94/graphy.git)
 - **LitMotion** (https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion)
