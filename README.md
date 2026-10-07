@@ -15,34 +15,30 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 
 ## 📦 Git Packages
 
-### Manual Installation
-Follow this installation order:
-1. `EditorTools` (https://github.com/Amaan12/EditorTools.git)
-2. `Utilities` (https://github.com/Amaan12/Utilities.git)
-3. `NuGet`
-   - `R3`
-   - `UniTask`
-4. `SuperUnityBuild` & `SuperUnityBuild Build Actions`
+- `EditorTools` (https://github.com/Amaan12/EditorTools.git)
+- `Utilities` (https://github.com/Amaan12/Utilities.git)
 
-### Auto-Install
-
-- **Improved Timers** (personal fork) (https://github.com/Amaan12/Unity-Improved-Timers.git)
 - **Unity Utilities Library** (https://github.com/adammyhre/Unity-Utils.git)
 - **EditorWindowMaximizer** (https://github.com/longbombus/FullScreenUnityEditor.git)
 - **GG Camera Shake** (https://github.com/gasgiant/Camera-Shake.git#upm)
 - **NuGetForUnity** (https://github.com/GlitchEnzo/NuGetForUnity.git?path=/src/NuGetForUnity)
-- **yFullscreen** (personal fork) (https://github.com/Amaan12/yFullScreen.git)
 - **Simple Folder Icon** (https://github.com/SeaeeesSan/SimpleFolderIcon.git?path=Packages/com.seaeees.simple-folder-icon)
 - **Eflatun.SceneRef** (git+https://github.com/starikcetin/Eflatun.SceneReference.git#upm)
 - **KyleBanks/scene-ref-attribute** (git+https://github.com/KyleBanks/scene-ref-attribute.git)
-- **Modular-MVP** (https://github.com/Amaan12/Modular-MVP.git)
 - **Cysharp Suite:** (install this after the NuGet package is installed and compiled.)
   - `R3` (https://github.com/Cysharp/R3.git?path=src/R3.Unity/Assets/R3.Unity)
   - `UniTask` (https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask)
 - **Graphy** (https://github.com/Tayx94/graphy.git)
+- **LitMotion** (https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion)
+
+- **Improved Timers** (personal fork) (https://github.com/Amaan12/Unity-Improved-Timers.git)
+- **Logging System** (https://github.com/Amaan12/LoggingSystem.git)
+- **yFullscreen** (personal fork) (https://github.com/Amaan12/yFullScreen.git)
+- **Modular-MVP** (https://github.com/Amaan12/Modular-MVP.git)
 - **LUT Library** (used to be on asset store but not anymore) (https://github.com/Amaan12/Cinematic-Look-LUT-Library.git)
 - **Audio System** (https://github.com/Amaan12/Audio-System.git)
-- **LitMotion** (https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion)
+
+- `SuperUnityBuild` & `SuperUnityBuild Build Actions` (https://github.com/superunitybuild/buildtool) and (https://github.com/superunitybuild/buildactions)
 
 ---
 
