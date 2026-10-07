@@ -17,7 +17,6 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 
 - `EditorTools` (https://github.com/Amaan12/EditorTools.git)
 - `Utilities` (https://github.com/Amaan12/Utilities.git)
-
 - **Unity Utilities Library** (https://github.com/adammyhre/Unity-Utils.git)
 - **EditorWindowMaximizer** (https://github.com/longbombus/FullScreenUnityEditor.git)
 - **GG Camera Shake** (https://github.com/gasgiant/Camera-Shake.git#upm)
@@ -30,14 +29,12 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
   - `UniTask` (https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask)
 - **Graphy** (https://github.com/Tayx94/graphy.git)
 - **LitMotion** (https://github.com/annulusgames/LitMotion.git?path=src/LitMotion/Assets/LitMotion)
-
 - **Improved Timers** (personal fork) (https://github.com/Amaan12/Unity-Improved-Timers.git)
 - **Logging System** (https://github.com/Amaan12/LoggingSystem.git)
 - **yFullscreen** (personal fork) (https://github.com/Amaan12/yFullScreen.git)
 - **Modular-MVP** (https://github.com/Amaan12/Modular-MVP.git)
 - **LUT Library** (used to be on asset store but not anymore) (https://github.com/Amaan12/Cinematic-Look-LUT-Library.git)
 - **Audio System** (https://github.com/Amaan12/Audio-System.git)
-
 - `SuperUnityBuild` & `SuperUnityBuild Build Actions` (https://github.com/superunitybuild/buildtool) and (https://github.com/superunitybuild/buildactions)
 
 ---
