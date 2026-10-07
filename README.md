@@ -34,7 +34,7 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 - **yFullscreen** (personal fork) (https://github.com/Amaan12/yFullScreen.git)
 - **Modular-MVP** (https://github.com/Amaan12/Modular-MVP.git)
 - **LUT Library** (used to be on asset store but not anymore) (https://github.com/Amaan12/Cinematic-Look-LUT-Library.git)
-- **Audio System** (https://github.com/Amaan12/Audio-System.git)
+- **Audio System** (https://github.com/Amaan12/AudioSystem.git)
 - `SuperUnityBuild` & `SuperUnityBuild Build Actions` (https://github.com/superunitybuild/buildtool) and (https://github.com/superunitybuild/buildactions)
 
 ---
