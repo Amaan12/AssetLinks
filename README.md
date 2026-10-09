@@ -42,19 +42,19 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 ## 🏪 Asset Store & Project Assets
 
 ### 🐞 Debug
-- [Quantum Console (QSFW)](https://assetstore.unity.com/packages/tools/utilities/quantum-console-211046) 💰
+- [Quantum Console](https://assetstore.unity.com/packages/tools/utilities/quantum-console-211046) 💰
 
 ### 🛠️ Editor
 - [vInspector 2](https://assetstore.unity.com/packages/tools/utilities/vinspector-2-252297) 💰
-- [Editor Auto Save (IntelliNation)](https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445)
-- [Unity Editor Dark Mode (Windows)](https://assetstore.unity.com/packages/tools/gui/darkmode-for-unity-editor-on-windows-281842)
+- [Editor Auto Save](https://assetstore.unity.com/packages/tools/utilities/editor-auto-save-234445)
+- [DarkMode for Unity Editor on Windows](https://assetstore.unity.com/packages/tools/gui/darkmode-for-unity-editor-on-windows-281842)
 - [Audio Preview Tool](https://assetstore.unity.com/packages/tools/audio/audio-preview-tool-244446)
 
 ### ⚡ Optimizations
-- [Update Manager](https://assetstore.unity.com/packages/tools/utilities/update-manager-53581)
+- [Update manager](https://assetstore.unity.com/packages/tools/utilities/update-manager-53581)
 
 ### 🎨 Rendering, Post-Processing & Textures
-- [Scalable Prototype Textures](https://assetstore.unity.com/packages/2d/textures-materials/grid-prototype-materials-214264): Scalable so easily the best ones.
+- [Grid Prototype Materials](https://assetstore.unity.com/packages/2d/textures-materials/grid-prototype-materials-214264): Scalable so easily the best ones.
 - Skybox
   - [AllSky Free - 10 Sky / Skybox Set](https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014)
   - [Fantasy Skybox FREE](https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353)
@@ -62,7 +62,7 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 
 ### 🖥️ UI
 - [Evo UI - Modern UI Framework](https://assetstore.unity.com/packages/tools/gui/evo-ui-modern-ui-framework-310303) 💰
-- [Flat pack - GUI by CorePro](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰
+- [Flat pack - GUI](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰
 - [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
 - [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated, still owned if required.
 
