@@ -1,15 +1,16 @@
 # Asset Links & Packages
 
-A curated index of Unity packages, Asset Store dependencies, and modular project setup workflows.
-
-> **Note:** 💰 denotes a paid Asset Store package.
+> A curated index of Unity packages, Asset Store dependencies, and modular project setup workflows.
+> 
+> 💰 = paid
 
 ---
 
 ## 🏗️ Menu System & Modularization
 
-- **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, etc.) into separate Git packages.
-- **Menu System:** Turn the menu system into a private Git package, bundled with sample scenes containing the demo game.
+#### *TODO*
+  - **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, etc.) into separate Git packages.
+  - **Menu System:** Turn the menu system into a private (or maybe public) Git package, bundled with sample scenes containing the demo game.
 
 ---
 
@@ -65,12 +66,3 @@ A curated index of Unity packages, Asset Store dependencies, and modular project
 - [Flat pack - GUI](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰
 - [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
 - [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated, still owned if required.
-
----
-
-## 📋 TODO
-
-######  **EditorTools:** 
-- [ ] Update the cached Asset Store auto-install list in `EditorTools` only after migrating to Unity 7 (requires a new template project and fresh installations).
-###### **Git Packages:**
-- [ ] Watch git-amend tutorials for the three Cysharp packages (`R3`, `UniTask`, `ZLinq`) to configure installation via NuGet.
