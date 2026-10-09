@@ -6,10 +6,10 @@
 
 ---
 
-## 🏗️ Menu System & Modularization
+## 🏗️ Menu System
 
 #### *TODO*
-  - **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, etc.) into separate Git packages.
+  - **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, UI feel, google api fetcher, etc.) into separate Git packages.
   - **Menu System:** Turn the menu system into a private (or maybe public) Git package, bundled with sample scenes containing the demo game.
 
 ---
@@ -40,7 +40,7 @@
 
 ---
 
-## 🏪 Asset Store & Project Assets
+## 🏪 Asset Store
 
 ### 🐞 Debug
 - [Quantum Console](https://assetstore.unity.com/packages/tools/utilities/quantum-console-211046) 💰
