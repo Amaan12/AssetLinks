@@ -6,14 +6,6 @@
 
 ---
 
-## 🏗️ Menu System
-
-#### *TODO*
-  - **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, UI feel, google api fetcher, etc.) into separate Git packages.
-  - **Menu System:** Turn the menu system into a private (or maybe public) Git package, bundled with sample scenes containing the demo game.
-
----
-
 ## 📦 Git Packages
 
 - `EditorTools` (https://github.com/Amaan12/EditorTools.git)
@@ -66,3 +58,11 @@
 - [Flat pack - GUI](https://assetstore.unity.com/packages/2d/gui/flat-pack-gui-307236): 💰
 - [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
 - [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240): Deprecated, still owned if required.
+
+---
+
+## 🏗️ Menu System
+
+> *TODO*
+  - **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, UI feel, google api fetcher, etc.) into separate Git packages.
+  - **Menu System:** Turn the menu system into a private (or maybe public) Git package, bundled with sample scenes containing the demo game.
