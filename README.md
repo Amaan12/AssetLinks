@@ -69,8 +69,10 @@
   - **Input Actions (CLI)**: Pull genre .inputactions presets from GitHub.
   - **Sibling Imports Folder (Git Package)**: Virtual folder with SO toggle. Already made, waiting for Unity 7 to update in one go.
   - **CI/CD Tool (Git Package)**: GitHub Actions  
-  - **Auto-job applier**
-  - **Windows Preference Applier**
+  - **Auto-post scanner**
+  - **WindowsPreferenceApplier**
+  - **VSCPreferenceApplier**
+  
   - **GDrive Fetcher**
   - **Notion + AI**
   - **Monkeytype themes for UI**
