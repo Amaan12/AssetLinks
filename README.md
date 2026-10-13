@@ -72,7 +72,6 @@
   - **Auto-post scanner**
   - **WindowsPreferenceApplier**
   - **VSCPreferenceApplier**
-  
   - **GDrive Fetcher**
   - **Notion + AI**
   - **Monkeytype themes for UI**
