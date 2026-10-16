@@ -75,7 +75,6 @@
   - **KrunkerPreference**
   - **GDrive Fetcher**
   - **Notion API**
-  - **GDrive AppScript integration in Unity** (_just like we did for GSheets Fetcher_)
   - **Monkeytype themes for UI**
   - **ContextEngie**
   - **AssetStore Free Asset Purchaser**
