@@ -68,14 +68,8 @@
   - **Shader Library (CLI)**: Pull individual .unitypackage shaders from GitHub.
   - **Input Actions (CLI)**: Pull genre .inputactions presets from GitHub.
   - **Sibling Imports Folder (Git Package)**: Virtual folder with SO toggle. Already made, waiting for Unity 7 to update in one go.
-  - **CI/CD Tool (Git Package)**: GitHub Actions  
-  - **Auto-post scanner**
-  - **WindowsPreferenceApplier**
-  - **VSCPreferenceApplier**
-  - **KrunkerPreference**
-  - **GDrive Fetcher**
-  - **Notion API**
+  - **CI/CD Tool (Git Package)**: GitHub Actions
+  - **GDrive Fetcher, should work both with AI, and a single unity button press. For Unity can provide it in the google sheets things itself. For AI should work without needing any scripts.**
   - **Monkeytype themes for UI**
-  - **ContextEngie**
   - **AssetStore Free Asset Purchaser**
 
