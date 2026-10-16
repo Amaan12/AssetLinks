@@ -72,6 +72,7 @@
   - **Auto-post scanner**
   - **WindowsPreferenceApplier**
   - **VSCPreferenceApplier**
+  - **KrunkerPreference**
   - **GDrive Fetcher**
   - **Notion API**
   - **GDrive AppScript integration in Unity** (_just like we did for GSheets Fetcher_)
