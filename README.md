@@ -60,15 +60,3 @@
 - [Skymon Icon Pack Free](https://assetstore.unity.com/packages/2d/gui/icons/skymon-icon-pack-free-282424)
 - [FPS Icons Pack by Infima](https://assetstore.unity.com/packages/p/fps-icons-pack-45240) (_Deprecated, still owned if required.)_
 
----
-
-> # *TODO Projects*
-  - **Package Modularization:** Convert core systems (splash screen, localization, input rebinding, UI feel, GoogleSheets/Docs API fetcher, loader, etc.) into separate Git packages.
-  - **Menu System:** Turn the menu system into a private (or maybe public) Git package, bundled with sample scenes containing the demo game. Then with AI makes loads and loads of samples, no functionality just samples.
-  - **Shader Library (CLI)**: Pull individual .unitypackage shaders from GitHub.
-  - **Input Actions (CLI)**: Pull genre .inputactions presets from GitHub.
-  - **Sibling Imports Folder (Git Package)**: Virtual folder with SO toggle. Already made, waiting for Unity 7 to update in one go.
-  - **CI/CD Tool (Git Package)**: GitHub Actions
-  - **GDrive Fetcher, should work both with AI, and a single unity button press. For Unity can provide it in the google sheets things itself. For AI should work without needing any scripts.**
-  - **Monkeytype themes for UI**
-  - **AssetStore Free Asset Purchaser**
